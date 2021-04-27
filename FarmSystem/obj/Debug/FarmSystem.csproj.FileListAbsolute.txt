@@ -1,0 +1,7 @@
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\bin\Debug\FarmSystem.exe.config
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\bin\Debug\FarmSystem.exe
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\bin\Debug\FarmSystem.pdb
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\obj\Debug\FarmSystem.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\obj\Debug\FarmSystem.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\obj\Debug\FarmSystem.exe
+C:\Users\vikas\source\repos\FarmSystem\FarmSystem\obj\Debug\FarmSystem.pdb

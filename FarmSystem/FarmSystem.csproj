@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimalFactory.cs" />
+    <Compile Include="AnimalType.cs" />
+    <Compile Include="FarmSystem.cs" />
+    <Compile Include="IAnimal.cs" />
+    <Compile Include="IMilkableAnimal.cs" />
+    <Compile Include="Sheep.cs" />
+    <Compile Include="Horse.cs" />
+    <Compile Include="Hen.cs" />
+    <Compile Include="Cow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
